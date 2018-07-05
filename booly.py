@@ -2,7 +2,7 @@
 # Takes in input and tries to determine what boolean it is.
 # Meant to be used for replacing boilerplate user-confirmation prompts.
 # See README for examples
-# I'm |---| this close to making the decision to make this OOP, but im torn.
+
 from difflib import SequenceMatcher
 
 
