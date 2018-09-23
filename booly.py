@@ -13,10 +13,10 @@ class Booly:
     def __init__(self):
         self.trues = ['unquestionably', 'without fail', 'undoubtedly', 'indubitably', 'good enough', 'affirmative',
                       'sure thing', 'definitely', 'willingly', 'very well', 'precisely', 'of course', 'naturally',
-                      'assuredly', 'certainly', 'all right', 'positive', 'i guess', 'just so', 'granted', 'exactly',
+                      'assuredly', 'certainly', 'all right', 'positive', 'continue', 'i guess', 'just so', 'granted', 'exactly',
                       'even so', 'surely', 'gladly', 'sure', 'true', 'okay', 'good', 'fine', 'amen', 'yay', 'yep',
-                      'yes', 'aye', 'yea', 'ok', '1', 't']
-        self.falses = ['negatory', 'negative', 'no way', 'cancel', 'denied', 'false', 'never', 'quit', 'exit', 'not',
+                      'yes', 'aye', 'yea', 'ok', ,'go', '1', 't']
+        self.falses = ['negatory', 'negative', 'no way', 'cancel', 'denied', 'false', 'never', 'quit', 'stop', 'exit', 'wait', 'not',
                        'nix', 'nay', 'no', 'f', '0']
         self.item = 0
         self.item = 0
